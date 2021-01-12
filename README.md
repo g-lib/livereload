@@ -46,3 +46,7 @@ COPYRIGHT:
 ```
 
 ## Usage of Package
+
+## Maybe to add
+
++ Plug-Template
